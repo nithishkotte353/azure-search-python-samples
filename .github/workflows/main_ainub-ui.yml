@@ -67,5 +67,5 @@ jobs:
         with:
           app-name: 'ainub-ui'
           slot-name: 'Production'
-          package: .
+          package: .\search-website-functions-v4
           
